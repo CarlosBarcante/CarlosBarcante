@@ -21,4 +21,4 @@ Olá! Sou o Carlos, um entusiasta do desenvolvimento web que iniciou sua jornada
 
 # Diversão e Passatempos
 
-Quando não estou codificando, me aventuro no mundo dos videogames. Além de ser uma fonte de entretenimento, os jogos têm me ensinado lições valiosas sobre estratégia, resolução de problemas e trabalho em equipe. Acredito que os princípios que aprendi nos jogos podem ser aplicados de maneira surpreendentemente útil no desenvolvimento de software.
+Quando não estou codando, me aventuro no mundo dos videogames. Além de ser uma fonte de entretenimento, os jogos têm me ensinado lições valiosas sobre estratégia, resolução de problemas e trabalho em equipe. Acredito que os princípios que aprendi nos jogos podem ser aplicados de maneira surpreendentemente útil no desenvolvimento de software.
